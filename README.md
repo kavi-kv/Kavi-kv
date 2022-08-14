@@ -18,8 +18,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kavifirdouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kavifirdouz" height="30" width="40" /></a>
-<a href="https://fb.com/kàvî ålï" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kàvî ålï" height="30" width="40" /></a>
+<a href="https://twitter.com/kavifirdouz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@DeKaphiano" height="30" width="40" /></a>
+<a href="https://fb.com/kàvî ålï" target="blank"><img align="center" src="https://raw.githubusercontent.com/mohamedAli/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kàvî ålï" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
