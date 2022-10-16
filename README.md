@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **School Management System with Java**
 
-- 🌱 I’m currently learning **Kotlin, Android Dev**
+- 🌱 I’m currently learning **C#**
 
 - 💬 Ask me about **Java, Kotlin**
 
