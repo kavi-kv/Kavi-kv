@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/kavifirdouz" target="blank"><img src="https://img.shields.io/twitter/follow/kavifirdouz?logo=twitter&style=for-the-badge" alt="kavifirdouz" /></a> </p>
 
-- 🔭 I’m currently working on **School Management System with Java**
+- 🔭 I’m currently working on **Gym Management System**
 
 - 🌱 I’m currently learning **C#**
 
