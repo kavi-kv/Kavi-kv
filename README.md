@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Gym Management System**
 
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **Dart and flutter**
 
 - 💬 Ask me about **Java, C#**
 
