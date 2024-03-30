@@ -1,5 +1,5 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2020/03/animation-software-header-wide.gif)](https://rishavchanda.io)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Ali+Abdi;A+passionate+developer+from+Somalia)](https://git.io/typing-svg)
+<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohamed+Ali+Abdi;A+passionate+developer+from+Somalia)](https://git.io/typing-svg)<h3/>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76112c21e5277e8662da6bda418829b098d7ec0ad91e&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavi-kv&label=Profile%20views&color=0e75b6&style=flat" alt="kavi-kv" /> </p>
 
