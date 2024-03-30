@@ -10,9 +10,9 @@
 
 - 🔭 I’m currently working on **Gym Management System**
 
-- 🌱 I’m currently learning **Dart and flutter**
+- 🌱 I’m currently learning **Flutter and Nextjs**
 
-- 💬 Ask me about **Java, C#**
+- 💬 Ask me about **Reactjs,Nodejs,Flutter,Firebase,Nextjs ,C#**
 
 - 📫 How to reach me **mohamedfirdous910@gmail.com**
 
