@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/kavifirdouz" target="blank"><img src="https://img.shields.io/twitter/follow/kavifirdouz?logo=twitter&style=for-the-badge" alt="kavifirdouz" /></a> </p>
 
-- 🔭 I’m currently working on **Fogaan Live Audio Rooms**
+- 🔭 I’m currently working on **Fogaan Live Chat Audio Rooms**
 
 - 🌱 I’m currently learning **Flutter and Nextjs**
 
